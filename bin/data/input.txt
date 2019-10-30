@@ -1,16 +1,11 @@
-Formato: dois kits uso remoto, um kit uso próximo,
-Manufatura: Corte a laser, Impressão 3D, Marcenaria,
-Quantidade por kit: 3, 5, 8, 10,
-Bases: 3x3, 1x4, Sanfona, Encaixes da 3D,
-Blocos: Alavanca, Manivela, Turntable, Botões, Batida, Três Batidas,
-Plataformas: Bela, Teensy, Arduino Leonardo, Arduino Due, Raspberry Pi, Arduino Micro, Arduino Nano, ESP32,
-Conexão: com contato, sem contato, com fio, sem fio,
-Energia: bateria LiPo, bateria 18650, fonte DC,
-Fiação/Conectores: apenas energia, energia+dados, RJ-12, RJ-45, Pogo Pins,
-Sem-fio: Bluetooth, BLE, Wifi,
-Protocolos: I2C, MIDI, SPI, OSC,
-Sensores: Capacitivo, Resistivo, Rotary Encoder, Botões, Efeito Hall, Piezo, Proximidade, Posição Absoluta,
-Mecanismos: Engrenagens, Molas, Imãs,
-Mapeamento: libmapper, Max, Interface Tangível,
-Síntese: Percolate no Max, Prophet'08, Faust exportado, Pure Data, Web-MIDI,
-Produção das Placas: LOUCo, AllPCB,
+Manufacturing: Laser cut, 3D print, Woodwork, CNC route
+Platforms: Bela, Teensy, Arduino Leonardo, Arduino Due, Raspberry Pi, Arduino Micro, Arduino Nano, ESP32
+Connection: wired, wireless
+Power: LiPo battery, DC
+Connectors: RJ-12, RJ-45, Pogo Pins
+Wireless: Bluetooth, BLE, Wifi,
+Protocols: I2C, MIDI, SPI, OSC,
+Sensors: Capacitive, Resistive, Rotary Encoder, Buttons, Hall Effect, Piezo, Accelerometer, Gyroscope
+Actuators: Servo motor, Stepper motor, DC motor, LEDs, Speaker
+Mechanisms: Springs, Rods, Bellows, Levers, Cranks, Magnets
+Sound synthesis: Max, Prophet'08, Faust, Pure Data, Web-MIDI,
