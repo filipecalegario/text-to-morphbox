@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import model.MorphCategory;
 import processing.core.PApplet;
 
-public class PDFExportTest extends PApplet {
+public class TextToMorphBoxPDFExporter extends PApplet {
 
 	float pdfWidth = 500.0f;
 	float pdfHeight = 350.0f;
@@ -35,7 +35,9 @@ public class PDFExportTest extends PApplet {
 			//			System.out.println();
 		}
 		drawCategories();
-		//noLoop();
+		endRecord();
+		System.out.println("Arquivo output.pdf exportado com sucesso.");
+		exit();
 	}
 
 	private void drawCategories() {
@@ -85,7 +87,7 @@ public class PDFExportTest extends PApplet {
 		exit();
 	}
 	static public void main(String[] passedArgs) {
-		String[] appletArgs = new String[] { "main.PDFExportTest" };
+		String[] appletArgs = new String[] { "main.TextToMorphBoxPDFExporter" };
 		if (passedArgs != null) {
 			PApplet.main(concat(appletArgs, passedArgs));
 		} else {
