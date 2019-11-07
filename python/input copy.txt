@@ -1,0 +1,11 @@
+Manufacturing: Laser cut, 3D print, Woodwork, CNC route
+Platforms: Bela, Teensy, Arduino Leonardo, Arduino Due, Raspberry Pi, Arduino Micro, Arduino Nano, ESP32
+Connection: wired, wireless
+Power: LiPo battery, DC
+Connectors: RJ-12, RJ-45, Pogo Pins
+Wireless: Bluetooth, BLE, Wifi,
+Protocols: I2C, MIDI, SPI, OSC,
+Sensors: Capacitive, Resistive, Rotary Encoder, Buttons, Hall Effect, Piezo, Accelerometer, Gyroscope
+Actuators: Servo motor, Stepper motor, DC motor, LEDs, Speaker
+Mechanisms: Springs, Rods, Bellows, Levers, Cranks, Magnets
+Sound synthesis: Max, Prophet'08, Faust, Pure Data, Web-MIDI,

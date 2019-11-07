@@ -1,11 +1,17 @@
-Manufacturing: Laser cut, 3D print, Woodwork, CNC route
-Platforms: Bela, Teensy, Arduino Leonardo, Arduino Due, Raspberry Pi, Arduino Micro, Arduino Nano, ESP32
-Connection: wired, wireless
-Power: LiPo battery, DC
-Connectors: RJ-12, RJ-45, Pogo Pins
-Wireless: Bluetooth, BLE, Wifi,
-Protocols: I2C, MIDI, SPI, OSC,
-Sensors: Capacitive, Resistive, Rotary Encoder, Buttons, Hall Effect, Piezo, Accelerometer, Gyroscope
-Actuators: Servo motor, Stepper motor, DC motor, LEDs, Speaker
-Mechanisms: Springs, Rods, Bellows, Levers, Cranks, Magnets
-Sound synthesis: Max, Prophet'08, Faust, Pure Data, Web-MIDI,
+Ondas: Saw Brass, Square Bass, Tri Bass, Sine Pad, Detuned Saws
+Synths: DX Strings, DX Piano, Prophet Brass, Jupiter Pad, Moog Bass
+Função: Pad, Lead, Piano, Brass, Arp, Bass, Organ, FX
+Época: 80s Brass, 90s Lead
+Instrumento: Guitar, Flute, Marimba, Harmonica, Sax, Basoon, English Horn
+Vozes: Monofônicos, Polifônicos
+Discos ou Clichês: Orchestral Hit, Brian Eno Pad, Africa Pluck (Toto)
+Estilo Musical: Psy Bass, House Bass, Disco Lead
+Natureza Timbre: Pluck, Plik Plok, Mod, Acid, Smooth, Glide
+Sensação: Fairy Strings, Magic Book
+Objetivos: Sonoros, Performáticos Corporais
+One Knob: Entra uma coisa, Sai outra
+Perfil: Pop, Experimental
+Sensações Físicas: Contração Músculo, Tensão, Relaxamento
+Synth One Cat.: Arp/Seq, Poly, Pad, Lead, Bass, Pluck
+FM2: Keys/EP, Epic/Pad, Brass/Orch, Pluck/Bell, Bass/Deep, Lead/Synth, Arp/Seq
+GarageBand Teclado: Synth Classics, Synth Bass, Synth Leads, Synth Pads, FX, Other
